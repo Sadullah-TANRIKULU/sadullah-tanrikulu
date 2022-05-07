@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadullahhhhhhh
+- 👋 Hi, I’m @sadullah-tanrikulu
 - 👀 I’m interested in building software, learning foreign languages, playing instrument.
 - 🌱 I’m currently learning software.
 - 💞️ I’m looking to collaborate on my software learning.
