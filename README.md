@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **Coding is fun, 🥰 a life style...**
 
+<br/>
+<br/>
+
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
