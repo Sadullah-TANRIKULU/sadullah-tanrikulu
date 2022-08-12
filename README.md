@@ -22,6 +22,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular](https://davidmoseshenderson.medium.com/angular-9bb82e646ffd?source=rss-8305f2d3d5a3------2)
+- [SQL](https://davidmoseshenderson.medium.com/sql-lesson-ea90ced366f9?source=rss-8305f2d3d5a3------2)
+- [NETWORK](https://davidmoseshenderson.medium.com/network-bb105deefd2d?source=rss-8305f2d3d5a3------2)
+- [GIT AND GITHUB](https://davidmoseshenderson.medium.com/git-and-github-8ef1c3d3cd2?source=rss-8305f2d3d5a3------2)
+- [CSS3](https://davidmoseshenderson.medium.com/css3-f3d7f19dff23?source=rss-8305f2d3d5a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
