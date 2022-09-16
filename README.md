@@ -24,9 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [SDLC](https://dev.to/sadullah/sdlc-2epi)
 - [Agile...](https://dev.to/sadullah/agile-efp)
-- [Angular](https://davidmoseshenderson.medium.com/angular-9bb82e646ffd?source=rss-8305f2d3d5a3------2)
-- [SQL](https://davidmoseshenderson.medium.com/sql-lesson-ea90ced366f9?source=rss-8305f2d3d5a3------2)
-- [NETWORK](https://davidmoseshenderson.medium.com/network-bb105deefd2d?source=rss-8305f2d3d5a3------2)
+- [What is Computational Thinking?](https://dev.to/sadullah/what-is-computational-thinking-2img)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
