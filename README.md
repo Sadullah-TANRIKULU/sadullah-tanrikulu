@@ -22,11 +22,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SAP ABAP 2](https://davidmoseshenderson.medium.com/sap-abap-2-ea6080c5be9d?source=rss-8305f2d3d5a3------2)
 - [ABAP Development](https://davidmoseshenderson.medium.com/abap-development-fd70f070ffd3?source=rss-8305f2d3d5a3------2)
 - [SDLC](https://dev.to/sadullah/sdlc-2epi)
 - [Agile...](https://dev.to/sadullah/agile-efp)
 - [Angular](https://davidmoseshenderson.medium.com/angular-9bb82e646ffd?source=rss-8305f2d3d5a3------2)
-- [SQL](https://davidmoseshenderson.medium.com/sql-lesson-ea90ced366f9?source=rss-8305f2d3d5a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
