@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadullah-tanrikulu" alt="sadullah-tanrikulu" /></a> </p>
 
-- 🔭 I’m currently working on [django-official-tutorial](https://github.com/Sadullah-TANRIKULU/officialtutorial)
+- 🔭 I’m currently working on [ABAP-tutorial](https://exercism.org/dashboard)
 
-- 🌱 I’m currently learning **Python-Django framework**
+- 🌱 I’m currently learning **SAP ABAP**
 
-- 👯 I’m looking to collaborate on [myfire-blog-app](https://github.com/Sadullah-TANRIKULU/myfire-blog-app)
+- 👯 I’m looking to collaborate on [my-ABAP-studies](https://github.com/Sadullah-TANRIKULU/itab-aggregation)
 
 - 📝 I regularly write articles on [https://davidmoseshenderson.medium.com/](https://davidmoseshenderson.medium.com/)
 
 - 💬 Ask me about **ReactJS**
 
-- 📫 How to reach me **sadullahtanrikulu@gmail.com**
+- 📫 How to reach me **sadullahtanrikulu@gmail.com**, **+905454852477**
 
 - ⚡ Fun fact **Coding is fun, 🥰 a life style...**
 
