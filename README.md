@@ -23,10 +23,9 @@
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [ABAP Learning Journey...](https://dev.to/sadullah/abap-learning-journey-3ag8)
-- [SAP ABAP 2](https://davidmoseshenderson.medium.com/sap-abap-2-ea6080c5be9d?source=rss-8305f2d3d5a3------2)
-- [ABAP Development](https://davidmoseshenderson.medium.com/abap-development-fd70f070ffd3?source=rss-8305f2d3d5a3------2)
 - [SDLC](https://dev.to/sadullah/sdlc-2epi)
 - [Agile...](https://dev.to/sadullah/agile-efp)
+- [What is Computational Thinking?](https://dev.to/sadullah/what-is-computational-thinking-2img)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
