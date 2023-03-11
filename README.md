@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sadullah TANRIKULU</h1>
-<h3 align="center">Coding Enthusiast</h3>
+<h3 align="center">Want to solve Real Life problems not Metaverse</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadullah-tanrikulu" alt="sadullah-tanrikulu" /></a> </p>
 
-- 🔭 I’m currently working on [ABAP-tutorial](https://exercism.org/dashboard)
+- 🔭 I’m currently working on [ABAP2UI5](https://github.com/oblomov-dev/abap2ui5)
 
 - 🌱 I’m currently learning **SAP ABAP**
 
-- 👯 I’m looking to collaborate on [my-ABAP-studies](https://github.com/Sadullah-TANRIKULU/itab-aggregation)
+- 👯 I’m looking to collaborate on [my-ABAP-studies](https://exercism.org/tracks/abap)
 
-- 📝 I regularly write articles on [https://davidmoseshenderson.medium.com/](https://davidmoseshenderson.medium.com/)
+- 📝 I regularly write articles on [Medium blogs](https://davidmoseshenderson.medium.com/) and [Dev to](https://dev.to/sadullah)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **SAP ABAP (Advanced Business Application Programming) and Web Development**
 
 - 📫 How to reach me **sadullahtanrikulu@gmail.com**, **+905454852477**
 
