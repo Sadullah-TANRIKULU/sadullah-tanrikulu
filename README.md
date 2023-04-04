@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SAP ABAP (Advanced Business Application Programming) and Web Development**
 
-- 📫 How to reach me **sadullahtanrikulu@gmail.com**, **+905454852477**
+- 📫 How to reach me **sadullahtanrikulu@gmail.com**, **+90 545 485 2477**
 
 - ⚡ Fun fact **Coding is fun, 🥰 a life style...**
 
