@@ -22,11 +22,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Begriffe und Definitionen der Informationstechnologie](https://davidmoseshenderson.medium.com/begriffe-und-definitionen-der-informationstechnologie-ab10bb3356f5?source=rss-8305f2d3d5a3------2)
 - [Summary of Zwei Katzen in Köln Kurzgeschichte](https://davidmoseshenderson.medium.com/summary-of-zwei-katzen-in-k%C3%B6ln-kurzgeschichte-20c591035db7?source=rss-8305f2d3d5a3------2)
 - [Let&#39;s talk about OO ABAP with a junior DEV!](https://dev.to/sadullah/lets-talk-about-oo-abap-with-a-junior-dev-2424)
 - [Let’s talk about OO ABAP with a junior DEV!](https://davidmoseshenderson.medium.com/lets-talk-about-oo-abap-with-a-junior-dev-a8348a2a867c?source=rss-8305f2d3d5a3------2)
 - [ABAP Learning Journey...](https://dev.to/sadullah/abap-learning-journey-3ag8)
-- [SAP ABAP 2](https://davidmoseshenderson.medium.com/sap-abap-2-ea6080c5be9d?source=rss-8305f2d3d5a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
