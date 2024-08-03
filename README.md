@@ -22,11 +22,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Summary of Quer Durch Hamburg](https://davidmoseshenderson.medium.com/summary-of-quer-durch-hamburg-006c2f59cf77?source=rss-8305f2d3d5a3------2)
-- [Begriffe und Definitionen der Informationstechnologie](https://davidmoseshenderson.medium.com/begriffe-und-definitionen-der-informationstechnologie-ab10bb3356f5?source=rss-8305f2d3d5a3------2)
-- [Summary of Zwei Katzen in Köln Kurzgeschichte](https://davidmoseshenderson.medium.com/summary-of-zwei-katzen-in-k%C3%B6ln-kurzgeschichte-20c591035db7?source=rss-8305f2d3d5a3------2)
 - [Let&#39;s talk about OO ABAP with a junior DEV!](https://dev.to/sadullah/lets-talk-about-oo-abap-with-a-junior-dev-2424)
-- [Let’s talk about OO ABAP with a junior DEV!](https://davidmoseshenderson.medium.com/lets-talk-about-oo-abap-with-a-junior-dev-a8348a2a867c?source=rss-8305f2d3d5a3------2)
+- [ABAP Learning Journey...](https://dev.to/sadullah/abap-learning-journey-3ag8)
+- [SDLC](https://dev.to/sadullah/sdlc-2epi)
+- [Agile...](https://dev.to/sadullah/agile-efp)
+- [What is Computational Thinking?](https://dev.to/sadullah/what-is-computational-thinking-2img)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
