@@ -22,11 +22,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mi’rac-ı Nebeviyeye aleyhissalatu vesselam dairdir](https://davidmoseshenderson.medium.com/mirac-%C4%B1-nebeviyeye-aleyhissalatu-vesselam-dairdir-79ac2dc9b2c5?source=rss-8305f2d3d5a3------2)
 - [Deutsch Grammatik Tipps und Tricks](https://davidmoseshenderson.medium.com/deutsch-grammatik-tipps-und-tricks-a25e21611193?source=rss-8305f2d3d5a3------2)
 - [Summary of Quer Durch Hamburg](https://davidmoseshenderson.medium.com/summary-of-quer-durch-hamburg-006c2f59cf77?source=rss-8305f2d3d5a3------2)
 - [Begriffe und Definitionen der Informationstechnologie](https://davidmoseshenderson.medium.com/begriffe-und-definitionen-der-informationstechnologie-ab10bb3356f5?source=rss-8305f2d3d5a3------2)
 - [Summary of Zwei Katzen in Köln Kurzgeschichte](https://davidmoseshenderson.medium.com/summary-of-zwei-katzen-in-k%C3%B6ln-kurzgeschichte-20c591035db7?source=rss-8305f2d3d5a3------2)
-- [Let&#39;s talk about OO ABAP with a junior DEV!](https://dev.to/sadullah/lets-talk-about-oo-abap-with-a-junior-dev-2424)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
