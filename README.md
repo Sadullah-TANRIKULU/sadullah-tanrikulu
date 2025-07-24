@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadullah-tanrikulu" alt="sadullah-tanrikulu" /></a> </p>
 
-- 🔭 I’m currently working on [ABAP2UI5](https://github.com/oblomov-dev/abap2ui5)
+- 🔭 I’m currently working on [ABAP2UI5](https://github.com/oblomov-dev/abap2ui5) and [Javascript](https://developer.mozilla.org/en-US/)
 
 - 🌱 I’m currently learning **SAP ABAP**
 
 - 👯 I’m looking to collaborate on [my-ABAP-studies](https://exercism.org/tracks/abap)
 
-- 📝 I regularly write articles on [Medium blogs](https://davidmoseshenderson.medium.com/) and [Dev to](https://dev.to/sadullah)
+- 📝 I rarely publish articles on [Medium blogs](https://davidmoseshenderson.medium.com/) and [Dev to](https://dev.to/sadullah)
 
 - 💬 Ask me about **SAP ABAP (Advanced Business Application Programming) and Web Development**
 
-- 📫 How to reach me **sadullahtanrikulu@gmail.com**, **+41 78 310 30 42**
+- 📫 How to reach me **sadullahtanrikulu@gmail.com**, **+41 78 3150711**
 
-- ⚡ Fun fact **Coding is fun, 🥰 a life style...**
+- ⚡ Fun fact **Develop software products is fun, 🥰 a life style...**
 
 <br/>
 <br/>
