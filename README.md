@@ -1,26 +1,86 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Sadullah Tanrikulu Profile Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sadullah TANRIKULU</h1>
-<h3 align="center">Want to solve Real Life problems not Metaverse</h3>
+<h3 align="center">Want to solve Real Life problems, not the Metaverse</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadullah-tanrikulu" alt="sadullah-tanrikulu" /></a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sadullah-tanrikulu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sadullahtanrikulu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dev.to/sadullah" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://medium.com/@davidmoseshenderson" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/17924398" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" /></a>
+  <a href="https://codepen.io/sadullahhhhhhh" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
+  <a href="https://twitter.com/sadullahhhhhhh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/_sadullah_tanrikulu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-- 🔭 I’m currently working on [ABAP-Unit](https://github.com/Sadullah-TANRIKULU/abap-unit-test-fizz-buzz/tree/master) and [Javascript](https://github.com/Sadullah-TANRIKULU/Aspekte-neu-Uebungen)
+---
 
-- 🌱 I’m currently learning **SAP ABAP**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on [my-ABAP-studies](https://exercism.org/tracks/abap)
+- 🔭 **Current Focus**: Developing in **SAP ABAP-Unit** & building modern **Javascript** integrations.
+  - Check out my work on [ABAP-Unit Test (FizzBuzz)](https://github.com/Sadullah-TANRIKULU/abap-unit-test-fizz-buzz/tree/master) and [Javascript exercises](https://github.com/Sadullah-TANRIKULU/Aspekte-neu-Uebungen).
+- 🌱 **Learning**: Mastering advanced **SAP ABAP** concepts and developer workflows.
+- 👯 **Collaboration**: Looking to collaborate on ABAP tracks and studies. Let's work together on [my-ABAP-studies](https://exercism.org/tracks/abap).
+- 💬 **Ask me about**: SAP ABAP (Advanced Business Application Programming), Unit Testing, Web Development, and Clean Code.
+- ⚡ **Fun Fact**: Creating software is more than a profession; it's a lifestyle and a playground for innovation.
+- 📫 **Reach Me**:
+  - 📧 Email: **sadullahtanrikulu@gmail.com**
+  - 📞 Phone: **+41 78 315 07 11**
 
-- 📝 I rarely publish articles on [Medium blogs](https://davidmoseshenderson.medium.com/) and [Dev to](https://dev.to/sadullah)
+---
 
-- 💬 Ask me about **SAP ABAP (Advanced Business Application Programming) and Web Development**
+### 🛠️ Languages & Tools
 
-- 📫 How to reach me **sadullahtanrikulu@gmail.com**, **+41 78 3150711**
+#### 💻 Programming Languages & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP%20ABAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-- ⚡ Fun fact **Develop software products is fun, 🥰 a life style...**
+#### 🌐 Frameworks, Databases & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-<br/>
-<br/>
+#### 🔧 Tools, Platforms & OS
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-### Latest Blogs posts
+---
+
+### 📊 GitHub Analytics & Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sadullah-tanrikulu&theme=dracula&column=7&no-bg=true&no-frame=true" alt="sadullah-tanrikulu trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadullah-tanrikulu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="sadullah-tanrikulu GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadullah-tanrikulu&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="sadullah-tanrikulu Top Languages" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadullah-tanrikulu&theme=tokyonight&hide_border=true&background=0D1117" alt="sadullah-tanrikulu Streak Stats" />
+</p>
+
+---
+
+### ✍️ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Mi’rac-ı Nebeviyeye aleyhissalatu vesselam dairdir](https://davidmoseshenderson.medium.com/mirac-%C4%B1-nebeviyeye-aleyhissalatu-vesselam-dairdir-79ac2dc9b2c5?source=rss-8305f2d3d5a3------2)
 - [Deutsch Grammatik Tipps und Tricks](https://davidmoseshenderson.medium.com/deutsch-grammatik-tipps-und-tricks-a25e21611193?source=rss-8305f2d3d5a3------2)
@@ -28,31 +88,3 @@
 - [Begriffe und Definitionen der Informationstechnologie](https://davidmoseshenderson.medium.com/begriffe-und-definitionen-der-informationstechnologie-ab10bb3356f5?source=rss-8305f2d3d5a3------2)
 - [Summary of Zwei Katzen in Köln Kurzgeschichte](https://davidmoseshenderson.medium.com/summary-of-zwei-katzen-in-k%C3%B6ln-kurzgeschichte-20c591035db7?source=rss-8305f2d3d5a3------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sadullahhhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sadullahhhhhhh" height="30" width="40" /></a>
-<a href="https://dev.to/@sadullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sadullah" height="30" width="40" /></a>
-<a href="https://twitter.com/sadullahhhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadullahhhhhhh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadullah-tanrikulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadullah-tanrikulu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17924398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17924398" height="30" width="40" /></a>
-<a href="https://fb.com/sadullahhhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadullahhhhhhh" height="30" width="40" /></a>
-<a href="https://instagram.com/_sadullah_tanrikulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sadullah_tanrikulu" height="30" width="40" /></a>
-<a href="https://medium.com/@davidmoseshenderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidmoseshenderson" height="30" width="40" /></a>
-</p>
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadullah-tanrikulu&show_icons=true&locale=en&layout=compact" alt="sadullah-tanrikulu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadullah-tanrikulu&show_icons=true&locale=en" alt="sadullah-tanrikulu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadullah-tanrikulu&" alt="sadullah-tanrikulu" /></p>
-
